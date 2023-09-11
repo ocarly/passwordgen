@@ -1,5 +1,5 @@
 # Password generator
-    to randomly generate a more cryptic password for the evolving world.
+    Randomly generate a more cryptic password for the evolving world wide web.
     Passwords include having a length of 8-128 characters, Capital and lowercase letters, numeric, and can include special characters You must hit ok for Yes and Cancel for no. Didn't have time to look into changing the 
 
 
