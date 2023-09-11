@@ -1,5 +1,6 @@
 # Password generator
     to randomly generate a more cryptic password for the evolving world.
+    Passwords include having a length of 8-128 characters, Capital and lowercase letters, numeric, and can include special characters You must hit ok for Yes and Cancel for no. Didn't have time to look into changing the 
 
 
 
@@ -25,5 +26,5 @@ Provide a more detailed description of your project. Explain what it does, why i
     math portion
     concat
     rng
-  
+ Nick Amaro, Andres Reyes and Ryan Harris helped with submitting project
 
